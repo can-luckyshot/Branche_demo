@@ -9,7 +9,7 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="186.453125" x2="514.5" y1="187.453125" x1="62.5" stroke-width="1.5" stroke="#000" fill="none"/>
-  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="212.453125" x2="510.500009" y1="212.453125" x1="63.5" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="176" x2="514" y1="176" x1="62.5" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="196" x2="514" y1="196" x1="62.5" stroke-width="1.5" stroke="#000" fill="none"/>
  </g>
 </svg>
