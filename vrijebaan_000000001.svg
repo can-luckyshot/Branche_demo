@@ -11,5 +11,9 @@
   <title>Layer 1</title>
   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="176" x2="514" y1="176" x1="62.5" stroke-width="1.5" stroke="#000" fill="none"/>
   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="196" x2="514" y1="196" x1="62.5" stroke-width="1.5" stroke="#000" fill="none"/>
+  <g id="overweg_1">
+   <line stroke-dasharray="2,2" fill="none" stroke="#000" stroke-width="1.5" x1="440" y1="120" x2="440" y2="250" id="svg_7" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+   <line stroke-dasharray="2,2" fill="none" stroke="#000" stroke-width="1.5" x1="450" y1="120" x2="450" y2="250" id="svg_8" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  </g>
  </g>
 </svg>
